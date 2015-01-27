@@ -1,0 +1,18 @@
+<Project ProjectFileVersion="4" UseRelativePaths="True" CheckVersionsWhileResolvingAssemblies="True" ID="{fe44296c-f768-460e-964e-341b8dd4567c}">
+  <SearchDirectories />
+  <OutputSettings OutputPath="C:\Obfuscated" MainAssemblyPath="" RunAssemblyPath="" SNPath="" SignToolPath="" LicensingDLLPath="" OverwriteInputFiles="False" BuildID="" MapFilesLocation="">
+    <AdditionalAssemblies />
+  </OutputSettings>
+  <ExceptionReporting ExceptionReportingServiceURL="" TryToContinueOnException="True" LocalReportPath=".\sfdfsd_ExceptionReports" ApplicationName="" CompanyName="" ShowUI="True" EnableSaveToFileButton="True" EnableSendReportButton="True" />
+  <ObfuscationSettings RenamingScheme="0" UseOverloadedFieldNames="False" UseOverloadedMethodNames="False" HonorObfuscationAttributes="True" ExcludeSerializedTypes="True" ProcessInlineStrings="True" ForceXAMLProcessingModeExclude="False" ForceRenameParams="False" SymbolPrefix="" SymbolSuffix="" FakeFields="" FakeTypes="" FakeMethods="" />
+  <ObfuscationRules />
+  <InclusionExclusionRules />
+  <Assembly Load="true" Path=".\SmurfRPBanList.exe" XapEntryName="" KeyFilePath="" CertFilePath="" TimeStampURL="" Embed="True" AddExceptionReporting="False" PfxPassword="" PfxPasswordCert="" IsWinRTAssembly="False">
+    <ObfuscationSettings EncryptStrings="True" EncryptMethods="False" EncryptConstants="True" SuppressReflector="False" ReduceMetaData="False" ObfuscationDisposition="1" FlowObfuscation="3" CodeMasking="0" SuppressILDASM="True" SuppressReflection="False" CombineResources="True" EncryptResources="True" CompressResources="True" MarkAsSealed="False" EnableTamperDetection="False" EnableAntiDebugging="False" SymbolRenaming="True" HideExternalCalls="False" HideInternalCalls="False" GeneratePdbFile="True" ObfuscatePdbFileNames="True" IncludeLocalVariablesInPdbFile="False" Encrypt="False" Compress="False" MSBuild="False" ObfuscatedNamespace="A" RetainNamespace="False" ModuleInitializationMethod="" LicensingMerge="False" RemoveConstants="False">
+      <Watermarks Watermark0="" Watermark1="" Watermark2="" Watermark3="" Watermark4="" Watermark5="" Watermark6="" Watermark7="" Watermark8="" Watermark9="" />
+    </ObfuscationSettings>
+  </Assembly>
+  <WarningSuppressions />
+  <Warnings SaveWarningsToFile="" FailOnUnsuppressedWarning="False" SaveSuppressedWarnings="True" SaveUnsuppressedWarnings="True" />
+  <Filters />
+</Project>

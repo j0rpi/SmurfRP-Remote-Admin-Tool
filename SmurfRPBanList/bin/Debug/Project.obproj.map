@@ -1,0 +1,295 @@
+﻿<Mappings><Entry OldName="SmurfRPBanList.GUI.components" NewName="SmurfRPBanList.GUI.ca0077faf89faac9b214a1a8852700ef5" />
+<Entry OldName="SmurfRPBanList.GUI.tabControl1" NewName="SmurfRPBanList.GUI.c97156533f4bf2e6cf9a2976057f11e4d" />
+<Entry OldName="SmurfRPBanList.GUI.login" NewName="SmurfRPBanList.GUI.ca77302042153893540fb87bcc2b2705e" />
+<Entry OldName="SmurfRPBanList.GUI.userlist" NewName="SmurfRPBanList.GUI.c4127a38e35050e29da8f8771c6a05674" />
+<Entry OldName="SmurfRPBanList.GUI.managebans" NewName="SmurfRPBanList.GUI.cc31d838a7e4dc519e6b4b55f9e6fcab7" />
+<Entry OldName="SmurfRPBanList.GUI.remoteconsole" NewName="SmurfRPBanList.GUI.c5f469e01f9f493be735aba1d496a5558" />
+<Entry OldName="SmurfRPBanList.GUI.pictureBox1" NewName="SmurfRPBanList.GUI.cb9563a835ea3d5eac916014c14640b6d" />
+<Entry OldName="SmurfRPBanList.GUI.panel1" NewName="SmurfRPBanList.GUI.c19ca562534cc420d1e91ea98d1037db0" />
+<Entry OldName="SmurfRPBanList.GUI.linkLabel1" NewName="SmurfRPBanList.GUI.c23cebc9eecdaa4c4cfe4be393b3a26fd" />
+<Entry OldName="SmurfRPBanList.GUI.label3" NewName="SmurfRPBanList.GUI.c28e7e87d7e88d88a1325f0791e939f9e" />
+<Entry OldName="SmurfRPBanList.GUI.label1" NewName="SmurfRPBanList.GUI.c81d3eaf5716fbcf8bfbc95bd7dc874a0" />
+<Entry OldName="SmurfRPBanList.GUI.button1" NewName="SmurfRPBanList.GUI.cc7d0e8caf0e6d97e332f24240bc4ea38" />
+<Entry OldName="SmurfRPBanList.GUI.textBox1" NewName="SmurfRPBanList.GUI.c4a707d8ca0c01e94e1d65d96f6708810" />
+<Entry OldName="SmurfRPBanList.GUI.label2" NewName="SmurfRPBanList.GUI.c24f197343378179cfa460758584b256b" />
+<Entry OldName="SmurfRPBanList.GUI.textBox2" NewName="SmurfRPBanList.GUI.c6dd1fdd84075b7e4c96eeabf123681ec" />
+<Entry OldName="SmurfRPBanList.GUI.panel2" NewName="SmurfRPBanList.GUI.c517a19c44cbc0ead5fcd6463d95afe3d" />
+<Entry OldName="SmurfRPBanList.GUI.linkLabel2" NewName="SmurfRPBanList.GUI.c108746e510509d080b0ea4513d0606d2" />
+<Entry OldName="SmurfRPBanList.GUI.panel3" NewName="SmurfRPBanList.GUI.c647338363fdff87393ca370a591875a6" />
+<Entry OldName="SmurfRPBanList.GUI.button2" NewName="SmurfRPBanList.GUI.cba428c36b2b56f73e00e96d340a1aab4" />
+<Entry OldName="SmurfRPBanList.GUI.textBox4" NewName="SmurfRPBanList.GUI.ccc1f0f807b57827d948861690ce724b6" />
+<Entry OldName="SmurfRPBanList.GUI.panel4" NewName="SmurfRPBanList.GUI.cc33fa1a75eaf1403def3f3e27978e43d" />
+<Entry OldName="SmurfRPBanList.GUI.panel5" NewName="SmurfRPBanList.GUI.c43d624ec76a8ae51e0fb5461775309e9" />
+<Entry OldName="SmurfRPBanList.GUI.updates" NewName="SmurfRPBanList.GUI.caaed9a36166125d45e2703050a245111" />
+<Entry OldName="SmurfRPBanList.GUI.panel6" NewName="SmurfRPBanList.GUI.c06b546fa62a49dc1e95403d21ba274e4" />
+<Entry OldName="SmurfRPBanList.GUI.statusStrip1" NewName="SmurfRPBanList.GUI.c57a10e3c5cd6f50bbd2ea5ce74bd0415" />
+<Entry OldName="SmurfRPBanList.GUI.toolStripStatusLabel1" NewName="SmurfRPBanList.GUI.ce4e91373b89de05811c7de022b165ef8" />
+<Entry OldName="SmurfRPBanList.GUI.toolStripStatusLabel2" NewName="SmurfRPBanList.GUI.cf3f815a9c5737b3186927d7471dd3ed9" />
+<Entry OldName="SmurfRPBanList.GUI.accountsettings" NewName="SmurfRPBanList.GUI.c6093f9916992ab32383f40e7259dfc76" />
+<Entry OldName="SmurfRPBanList.GUI.panel7" NewName="SmurfRPBanList.GUI.c317ef420f8fa0da6403602e88810579a" />
+<Entry OldName="SmurfRPBanList.GUI.label4" NewName="SmurfRPBanList.GUI.ccb5af54e6000d9bcbfee28a669716aaa" />
+<Entry OldName="SmurfRPBanList.GUI.panel8" NewName="SmurfRPBanList.GUI.c2734e083843d309fc2be8a8a2dfaae56" />
+<Entry OldName="SmurfRPBanList.GUI.label6" NewName="SmurfRPBanList.GUI.c503d58ec6e0ace4331564f2f7b61ab4e" />
+<Entry OldName="SmurfRPBanList.GUI.button3" NewName="SmurfRPBanList.GUI.cf5761e7dcb8ec399cad931fbdd1a5c48" />
+<Entry OldName="SmurfRPBanList.GUI.textBox5" NewName="SmurfRPBanList.GUI.c75931d995997aa5705287e88a39cd2ef" />
+<Entry OldName="SmurfRPBanList.GUI.label5" NewName="SmurfRPBanList.GUI.c9e4f33b2e4e345d709abf15e9f91b88f" />
+<Entry OldName="SmurfRPBanList.GUI.label10" NewName="SmurfRPBanList.GUI.c329b42612bfb270c8cc96dfad6204d89" />
+<Entry OldName="SmurfRPBanList.GUI.label11" NewName="SmurfRPBanList.GUI.c08f4b6d21382335ed47a4944139b4033" />
+<Entry OldName="SmurfRPBanList.GUI.label9" NewName="SmurfRPBanList.GUI.cc2da351fafb873b6c49d2904e66fc33c" />
+<Entry OldName="SmurfRPBanList.GUI.label8" NewName="SmurfRPBanList.GUI.c4fe57fadc8f0934c741ec9c0e456ff8e" />
+<Entry OldName="SmurfRPBanList.GUI.label7" NewName="SmurfRPBanList.GUI.ccec9923eb66b7767f56e863aa07415fe" />
+<Entry OldName="SmurfRPBanList.GUI.pictureBox2" NewName="SmurfRPBanList.GUI.c048294839152d32f554a342dfd5de185" />
+<Entry OldName="SmurfRPBanList.GUI.panel9" NewName="SmurfRPBanList.GUI.c6b7fd2c3b19706bd2655c67df7a21d5d" />
+<Entry OldName="SmurfRPBanList.GUI.label12" NewName="SmurfRPBanList.GUI.ca478c154f60985a148c10ea34bd6e50e" />
+<Entry OldName="SmurfRPBanList.GUI.button4" NewName="SmurfRPBanList.GUI.cb0c47b11f6bce28aaf04637eba4134b5" />
+<Entry OldName="SmurfRPBanList.GUI.textBox6" NewName="SmurfRPBanList.GUI.c437ba757db99e03a64f2f878b8ee2290" />
+<Entry OldName="SmurfRPBanList.GUI.panel10" NewName="SmurfRPBanList.GUI.cce8411514bdd1189e0efd2483592df40" />
+<Entry OldName="SmurfRPBanList.GUI.button5" NewName="SmurfRPBanList.GUI.cff66f8f9b0a76415f4b8d05ba3340d10" />
+<Entry OldName="SmurfRPBanList.GUI.label13" NewName="SmurfRPBanList.GUI.c0441602a87090b96df4b137041ab33a5" />
+<Entry OldName="SmurfRPBanList.GUI.button8" NewName="SmurfRPBanList.GUI.c020dd578534e4c9e6643c109e812486c" />
+<Entry OldName="SmurfRPBanList.GUI.button7" NewName="SmurfRPBanList.GUI.ce6272647da4197beccd670b877910314" />
+<Entry OldName="SmurfRPBanList.GUI.button6" NewName="SmurfRPBanList.GUI.cd641d79b5abf0ec6ed2f031d6d60c038" />
+<Entry OldName="SmurfRPBanList.GUI.listView1" NewName="SmurfRPBanList.GUI.c740c2d38f98757b9069073feb3403bd6" />
+<Entry OldName="SmurfRPBanList.GUI.columnHeader1" NewName="SmurfRPBanList.GUI.ceef5c09da386b29507343857c3704158" />
+<Entry OldName="SmurfRPBanList.GUI.columnHeader2" NewName="SmurfRPBanList.GUI.c49735d3310e68a3e2d6aa1cd24aac393" />
+<Entry OldName="SmurfRPBanList.GUI.columnHeader3" NewName="SmurfRPBanList.GUI.cc8ba64b9a2679f4f44fe475b4eaac148" />
+<Entry OldName="SmurfRPBanList.GUI.columnHeader4" NewName="SmurfRPBanList.GUI.c1545fd746c860d1a0484b28e88cab770" />
+<Entry OldName="SmurfRPBanList.GUI.columnHeader5" NewName="SmurfRPBanList.GUI.c1df872f25663dae1c5443640c50e5d53" />
+<Entry OldName="SmurfRPBanList.GUI.columnHeader6" NewName="SmurfRPBanList.GUI.c398548ad0998dc6312e98e0200e04749" />
+<Entry OldName="SmurfRPBanList.GUI.webKitBrowser1" NewName="SmurfRPBanList.GUI.c6cfbe44c4bcfa62fba4e66125550310b" />
+<Entry OldName="SmurfRPBanList.GUI.textBox3" NewName="SmurfRPBanList.GUI.cdeb3424be7cf48252017a25912873600" />
+<Entry OldName="SmurfRPBanList.GUI.panel11" NewName="SmurfRPBanList.GUI.cce5e40cc7cc8cbcfff56084944f9d887" />
+<Entry OldName="SmurfRPBanList.GUI.label14" NewName="SmurfRPBanList.GUI.c0d4fe9aecb78e105c4a265b58caaea05" />
+<Entry OldName="SmurfRPBanList.GUI.pictureBox4" NewName="SmurfRPBanList.GUI.c40f585d25f66b04b78245095bc1d923e" />
+<Entry OldName="SmurfRPBanList.GUI.pictureBox3" NewName="SmurfRPBanList.GUI.cb1c83cd796a693710ef9adda35f49baf" />
+<Entry OldName="SmurfRPBanList.GUI.panel14" NewName="SmurfRPBanList.GUI.cddf5c3c90a68ecb8fa2bf63d5c8d6e26" />
+<Entry OldName="SmurfRPBanList.GUI.panel12" NewName="SmurfRPBanList.GUI.c99cd1bb0f943f29ca3c52b5dab8bec96" />
+<Entry OldName="SmurfRPBanList.GUI.panel13" NewName="SmurfRPBanList.GUI.c07a3a6f3102684e5536f6b3c2bc81d7d" />
+<Entry OldName="SmurfRPBanList.GUI.pictureBox5" NewName="SmurfRPBanList.GUI.c7ea17aa34c7132e0b8ff47d8a85b0f31" />
+<Entry OldName="SmurfRPBanList.GUI.label15" NewName="SmurfRPBanList.GUI.c1fa8c91ff100b2eb79014132b6cd9f61" />
+<Entry OldName="SmurfRPBanList.GUI.imageList1" NewName="SmurfRPBanList.GUI.c2c75c5b10d7c35eeb3b4f54e88ebd2d8" />
+<Entry OldName="SmurfRPBanList.GUI.label18" NewName="SmurfRPBanList.GUI.ce1daadddd62d143021c68e055f3352f3" />
+<Entry OldName="SmurfRPBanList.GUI.label17" NewName="SmurfRPBanList.GUI.c3573dac6d96c22069f166c4f9a9426bc" />
+<Entry OldName="SmurfRPBanList.GUI.label16" NewName="SmurfRPBanList.GUI.cbfda9cc7c2b00c5a213b8135baa0fb3f" />
+<Entry OldName="SmurfRPBanList.GUI.panel15" NewName="SmurfRPBanList.GUI.caafc3061560fcf100b00b070cd4116f3" />
+<Entry OldName="SmurfRPBanList.GUI.pictureBox6" NewName="SmurfRPBanList.GUI.cebab9aa944f9a7ad71d1e4bb7f19e460" />
+<Entry OldName="SmurfRPBanList.GUI.panel16" NewName="SmurfRPBanList.GUI.c94765075a8df1fb50be9fd84228dbf30" />
+<Entry OldName="SmurfRPBanList.GUI.textBox7" NewName="SmurfRPBanList.GUI.c0b9542986a96035db9f93e5efd211900" />
+<Entry OldName="SmurfRPBanList.GUI.label19" NewName="SmurfRPBanList.GUI.c8faf7b1c981fc754ff25cb9e0b2b6855" />
+<Entry OldName="SmurfRPBanList.GUI.panel19" NewName="SmurfRPBanList.GUI.c679dc54a7caa1a497dd9bf428e960d2b" />
+<Entry OldName="SmurfRPBanList.GUI.pictureBox10" NewName="SmurfRPBanList.GUI.ce4dff8068b38583583403ce829b9bc98" />
+<Entry OldName="SmurfRPBanList.GUI.textBox8" NewName="SmurfRPBanList.GUI.c4d418c962a0462d5e604e366776260eb" />
+<Entry OldName="SmurfRPBanList.GUI.panel20" NewName="SmurfRPBanList.GUI.c616b2f4e54059e9832fee02cac8a28bd" />
+<Entry OldName="SmurfRPBanList.GUI.pictureBox7" NewName="SmurfRPBanList.GUI.c8d1d347f68d2a43c5e3137ff7d1c1669" />
+<Entry OldName="SmurfRPBanList.GUI.textBox9" NewName="SmurfRPBanList.GUI.c8443cff36b9ab99313f1c6a5b15b552e" />
+<Entry OldName="SmurfRPBanList.GUI.label21" NewName="SmurfRPBanList.GUI.c26fb1d27a671fa7ecd0275036dac68a0" />
+<Entry OldName="SmurfRPBanList.GUI.label20" NewName="SmurfRPBanList.GUI.c0a2287a9d0da8b2385e48d082752af59" />
+<Entry OldName="SmurfRPBanList.GUI.button9" NewName="SmurfRPBanList.GUI.c18df1d67444d20d447f568d79fe8937e" />
+<Entry OldName="SmurfRPBanList.GUI.label22" NewName="SmurfRPBanList.GUI.c6549b9028fc76132df833b24d8fbaece" />
+<Entry OldName="SmurfRPBanList.Properties.Resources.resourceMan" NewName="A.c9689005366e7902aaf9c20c090d2fcb9.c94fd016a4bd64483c19421bdf538079e" />
+<Entry OldName="SmurfRPBanList.Properties.Resources.resourceCulture" NewName="A.c9689005366e7902aaf9c20c090d2fcb9.cd0bd591ab7d760ae55a087b3fe6363e6" />
+<Entry OldName="SmurfRPBanList.Classes.Strings__n_Ints..ctor()" NewName="A.c002f0f1325b83607ec0dc644e64ec565..ctor()" />
+<Entry OldName="SmurfRPBanList.GUI.linkLabel1_LinkClicked(Object sender, LinkLabelLinkClickedEventArgs e)" NewName="SmurfRPBanList.GUI.cd7cb35b7f25552ccdf7626178d344554(Object c2e15ad69d7db19b5683f9ee500974733, LinkLabelLinkClickedEventArgs c365615ca4c5704972ab8ceaca757039d)" />
+<Entry OldName="SmurfRPBanList.GUI.linkLabel2_LinkClicked(Object sender, LinkLabelLinkClickedEventArgs e)" NewName="SmurfRPBanList.GUI.c52149a59d0d21909a7241f296419812d(Object c2e15ad69d7db19b5683f9ee500974733, LinkLabelLinkClickedEventArgs c365615ca4c5704972ab8ceaca757039d)" />
+<Entry OldName="SmurfRPBanList.GUI.Form1_Load(Object sender, EventArgs e)" NewName="SmurfRPBanList.GUI.caea8462527fe436d764e528ac0e01010(Object c2e15ad69d7db19b5683f9ee500974733, EventArgs c365615ca4c5704972ab8ceaca757039d)" />
+<Entry OldName="SmurfRPBanList.GUI.rcon_ServerOutput(MessageCode code, String data)" NewName="SmurfRPBanList.GUI.cf2536b76f1eec557bc9a8c234bb05b64(MessageCode cd32851b993950ecbbf1adff9b77a4ae7, String c4d8fb87e5a22820c693387ad23c33266)" />
+<Entry OldName="SmurfRPBanList.GUI.button1_Click(Object sender, EventArgs e)" NewName="SmurfRPBanList.GUI.c1df7202336eb87e1b37a3173ac853d3d(Object c2e15ad69d7db19b5683f9ee500974733, EventArgs c365615ca4c5704972ab8ceaca757039d)" />
+<Entry OldName="SmurfRPBanList.GUI.button2_Click(Object sender, EventArgs e)" NewName="SmurfRPBanList.GUI.c6db286fe0bd01da8e4589b42e90cd75c(Object c2e15ad69d7db19b5683f9ee500974733, EventArgs c365615ca4c5704972ab8ceaca757039d)" />
+<Entry OldName="SmurfRPBanList.GUI.panel2_Paint(Object sender, PaintEventArgs e)" NewName="SmurfRPBanList.GUI.c0407d1a947131dab7be613c836853c1f(Object c2e15ad69d7db19b5683f9ee500974733, PaintEventArgs c365615ca4c5704972ab8ceaca757039d)" />
+<Entry OldName="SmurfRPBanList.GUI.button3_Click(Object sender, EventArgs e)" NewName="SmurfRPBanList.GUI.cb08827d6fec389467a1275981886a5e6(Object c2e15ad69d7db19b5683f9ee500974733, EventArgs c365615ca4c5704972ab8ceaca757039d)" />
+<Entry OldName="SmurfRPBanList.GUI.button4_Click(Object sender, EventArgs e)" NewName="SmurfRPBanList.GUI.caa61fd4c51f409f13f37aef6bd80e0ca(Object c2e15ad69d7db19b5683f9ee500974733, EventArgs c365615ca4c5704972ab8ceaca757039d)" />
+<Entry OldName="SmurfRPBanList.GUI.button5_Click(Object sender, EventArgs e)" NewName="SmurfRPBanList.GUI.c78a335787265b0bedfb6812f10160da7(Object c2e15ad69d7db19b5683f9ee500974733, EventArgs c365615ca4c5704972ab8ceaca757039d)" />
+<Entry OldName="SmurfRPBanList.GUI.listView1_ColumnClick_1(Object sender, ColumnClickEventArgs e)" NewName="SmurfRPBanList.GUI.c5ddba2e8be66445a191ee26e45b87303(Object c2e15ad69d7db19b5683f9ee500974733, ColumnClickEventArgs c365615ca4c5704972ab8ceaca757039d)" />
+<Entry OldName="SmurfRPBanList.GUI.listView1_MouseEnter_1(Object sender, EventArgs e)" NewName="SmurfRPBanList.GUI.c189bb4651b0ee7862975621db1ec7cf9(Object c2e15ad69d7db19b5683f9ee500974733, EventArgs c365615ca4c5704972ab8ceaca757039d)" />
+<Entry OldName="SmurfRPBanList.GUI.SendCommand(String command)" NewName="SmurfRPBanList.GUI.c713c051b9fe3c7d51d28597814def4e0(String c173bae8868f4c0aa09a25c4ddae05f2d)" />
+<Entry OldName="SmurfRPBanList.GUI.button6_Click(Object sender, EventArgs e)" NewName="SmurfRPBanList.GUI.c4fdf7de6d9665a0a39a981fd49006fdb(Object c2e15ad69d7db19b5683f9ee500974733, EventArgs c365615ca4c5704972ab8ceaca757039d)" />
+<Entry OldName="SmurfRPBanList.GUI.button8_Click(Object sender, EventArgs e)" NewName="SmurfRPBanList.GUI.c0cffcba0fa660e07e1349cbce3e97a0c(Object c2e15ad69d7db19b5683f9ee500974733, EventArgs c365615ca4c5704972ab8ceaca757039d)" />
+<Entry OldName="SmurfRPBanList.GUI.button9_Click(Object sender, EventArgs e)" NewName="SmurfRPBanList.GUI.c6a759ed6d834ce9d7e66f4197e016e80(Object c2e15ad69d7db19b5683f9ee500974733, EventArgs c365615ca4c5704972ab8ceaca757039d)" />
+<Entry OldName="SmurfRPBanList.GUI.button7_Click(Object sender, EventArgs e)" NewName="SmurfRPBanList.GUI.cd9d8da5fffe12f468f7b11ef9166cdad(Object c2e15ad69d7db19b5683f9ee500974733, EventArgs c365615ca4c5704972ab8ceaca757039d)" />
+<Entry OldName="SmurfRPBanList.GUI.InitializeComponent()" NewName="SmurfRPBanList.GUI.cbbf4291b87956e4bb6152aabb5f61f66()" />
+<Entry OldName="SmurfRPBanList.Program.Main()" NewName="A.c40d276ce9e13fa1d675411311fd5be32.c7792bca1d241e61e21e88ede5ca6448c()" />
+<Entry OldName="SmurfRPBanList.Properties.Resources..ctor()" NewName="A.c9689005366e7902aaf9c20c090d2fcb9..ctor()" />
+<Entry OldName="SmurfRPBanList.Properties.Resources.get_ResourceManager()" NewName="A.c9689005366e7902aaf9c20c090d2fcb9.get_ResourceManager()" />
+<Entry OldName="SmurfRPBanList.Properties.Resources.get_Culture()" NewName="A.c9689005366e7902aaf9c20c090d2fcb9.get_Culture()" />
+<Entry OldName="SmurfRPBanList.Properties.Resources.set_Culture(CultureInfo value)" NewName="A.c9689005366e7902aaf9c20c090d2fcb9.set_Culture(CultureInfo value)" />
+<Entry OldName="SmurfRPBanList.Properties.Resources.get__lock()" NewName="A.c9689005366e7902aaf9c20c090d2fcb9.get__lock()" />
+<Entry OldName="SmurfRPBanList.Properties.Resources.get_add()" NewName="A.c9689005366e7902aaf9c20c090d2fcb9.get_add()" />
+<Entry OldName="SmurfRPBanList.Properties.Resources.get_application_xp_terminal()" NewName="A.c9689005366e7902aaf9c20c090d2fcb9.get_application_xp_terminal()" />
+<Entry OldName="SmurfRPBanList.Properties.Resources.get_header()" NewName="A.c9689005366e7902aaf9c20c090d2fcb9.get_header()" />
+<Entry OldName="SmurfRPBanList.Properties.Resources.get_lock_go()" NewName="A.c9689005366e7902aaf9c20c090d2fcb9.get_lock_go()" />
+<Entry OldName="SmurfRPBanList.Properties.Resources.get_reason()" NewName="A.c9689005366e7902aaf9c20c090d2fcb9.get_reason()" />
+<Entry OldName="SmurfRPBanList.Properties.Resources.get_server()" NewName="A.c9689005366e7902aaf9c20c090d2fcb9.get_server()" />
+<Entry OldName="SmurfRPBanList.Properties.Resources.get_steam()" NewName="A.c9689005366e7902aaf9c20c090d2fcb9.get_steam()" />
+<Entry OldName="SmurfRPBanList.Properties.Resources.get_time_delete()" NewName="A.c9689005366e7902aaf9c20c090d2fcb9.get_time_delete()" />
+<Entry OldName="SmurfRPBanList.Properties.Resources.get_user()" NewName="A.c9689005366e7902aaf9c20c090d2fcb9.get_user()" />
+<Entry OldName="SmurfRPBanList.Properties.Resources.get_user_delete()" NewName="A.c9689005366e7902aaf9c20c090d2fcb9.get_user_delete()" />
+<Entry OldName="SmurfRPBanList.Properties.Resources.get_user_edit()" NewName="A.c9689005366e7902aaf9c20c090d2fcb9.get_user_edit()" />
+<Entry OldName="SmurfRPBanList.Properties.Resources.get_user_gray()" NewName="A.c9689005366e7902aaf9c20c090d2fcb9.get_user_gray()" />
+<Entry OldName="SmurfRPBanList.Properties.Resources.get_vcard()" NewName="A.c9689005366e7902aaf9c20c090d2fcb9.get_vcard()" />
+<Entry OldName="SmurfRPBanList.Classes.Strings__n_Ints" NewName="A.c002f0f1325b83607ec0dc644e64ec565" />
+<Entry OldName="SmurfRPBanList.Program" NewName="A.c40d276ce9e13fa1d675411311fd5be32" />
+<Entry OldName="SmurfRPBanList.Properties.Resources" NewName="A.c9689005366e7902aaf9c20c090d2fcb9" />
+<Entry OldName="d:\DBox\Dropbox\PETER-EMIL\SmurfRP\SmurfRPBanList\SmurfRPBanList\Classes\SQL.cs" NewName="File0" />
+<Entry OldName="d:\DBox\Dropbox\PETER-EMIL\SmurfRP\SmurfRPBanList\SmurfRPBanList\GUI\GUI.cs" NewName="File1" />
+<Entry OldName="d:\DBox\Dropbox\PETER-EMIL\SmurfRP\SmurfRPBanList\SmurfRPBanList\GUI\GUI.Designer.cs" NewName="File2" />
+<Entry OldName="d:\DBox\Dropbox\PETER-EMIL\SmurfRP\SmurfRPBanList\SmurfRPBanList\Program.cs" NewName="File3" />
+<Entry OldName="d:\DBox\Dropbox\PETER-EMIL\SmurfRP\SmurfRPBanList\SmurfRPBanList\Properties\Resources.Designer.cs" NewName="File4" />
+<Entry OldName="d:\DBox\Dropbox\PETER-EMIL\SmurfRP\SmurfRPBanList\SmurfRPBanList\Properties\Settings.Designer.cs" NewName="File5" />
+<Assembly Name="SmurfRPBanList"><Type Token="33554433" Name="&lt;Module&gt;" />
+<Method Token="100663297" Name="" Variables="" ParamCnt="0" />
+<Type Token="33554434" Name="j0rpiSQL.sqlFunctions" />
+<Method Token="100663298" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663299" Name="login" Variables="this;username;password;client;ip;usr;pw;conn;getauth;sqlreader;" ParamCnt="3" />
+<Method Token="100663300" Name="setPassword" Variables="this;username;password;client;ip;usr;pw;conn;conn2;getauth;ifexists;reader;count;" ParamCnt="3" />
+<Method Token="100663301" Name="GetDBString" Variables="this;SqlFieldName;Reader;" ParamCnt="3" />
+<Method Token="100663302" Name="writeLastLogin" Variables="this;lastlogin;username;client;ip;usr;pw;conn;conn2;getauth;ifexists;reader;count;" ParamCnt="3" />
+<Method Token="100663303" Name="writeAvatar" Variables="this;avatar;username;client;ip;usr;pw;conn;conn2;getauth;ifexists;reader;count;" ParamCnt="3" />
+<Type Token="33554436" Name="SmurfRPBanList.Classes.Strings__n_Ints" />
+<Method Token="100663305" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Type Token="33554438" Name="SmurfRPBanList.GUI" />
+<Method Token="100663312" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663313" Name="linkLabel1_LinkClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663314" Name="linkLabel2_LinkClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663315" Name="Form1_Load" Variables="this;sender;e;client;ip;ip2;srvIP;" ParamCnt="3" />
+<Method Token="100663316" Name="rcon_ServerOutput" Variables="this;code;data;" ParamCnt="3" />
+<Method Token="100663317" Name="button1_Click" Variables="this;sender;e;sql;sql2;client;ip;usr;pw;ip2;usr2;pw2;conn2;conn3;getauth2;getauth3;Reader2;Reader3;item;t2;t;" ParamCnt="3" />
+<Method Token="100663318" Name="button2_Click" Variables="this;sender;e;sql;client;ip;usr;pw;conn3;getauth2;Reader2;canusercon;isadmin;" ParamCnt="3" />
+<Method Token="100663319" Name="panel2_Paint" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663320" Name="button3_Click" Variables="this;sender;e;sql;" ParamCnt="3" />
+<Method Token="100663321" Name="button4_Click" Variables="this;sender;e;sql;" ParamCnt="3" />
+<Method Token="100663322" Name="button5_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663323" Name="listView1_ColumnClick_1" Variables="this;sender;e;client;ip2;usr2;pw2;conn3;getauth3;Reader3;item;dt1;" ParamCnt="3" />
+<Method Token="100663324" Name="listView1_MouseEnter_1" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663325" Name="SendCommand" Variables="this;command;" ParamCnt="2" />
+<Method Token="100663326" Name="button6_Click" Variables="this;sender;e;sql;client;ip;usr;pw;conn3;getauth2;Reader2;canusercon;isadmin;dialogResult;" ParamCnt="3" />
+<Method Token="100663327" Name="button8_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663328" Name="button9_Click" Variables="this;sender;e;sql;client;ip;usr;pw;conn3;getauth2;Reader2;canusercon;isadmin;" ParamCnt="3" />
+<Method Token="100663329" Name="button7_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663330" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663331" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108866" Name="remote" />
+<Field Token="67108867" Name="components" />
+<Field Token="67108868" Name="tabControl1" />
+<Field Token="67108869" Name="login" />
+<Field Token="67108870" Name="userlist" />
+<Field Token="67108871" Name="managebans" />
+<Field Token="67108872" Name="remoteconsole" />
+<Field Token="67108873" Name="pictureBox1" />
+<Field Token="67108874" Name="panel1" />
+<Field Token="67108875" Name="linkLabel1" />
+<Field Token="67108876" Name="label3" />
+<Field Token="67108877" Name="label1" />
+<Field Token="67108878" Name="button1" />
+<Field Token="67108879" Name="textBox1" />
+<Field Token="67108880" Name="label2" />
+<Field Token="67108881" Name="textBox2" />
+<Field Token="67108882" Name="panel2" />
+<Field Token="67108883" Name="linkLabel2" />
+<Field Token="67108884" Name="panel3" />
+<Field Token="67108885" Name="button2" />
+<Field Token="67108886" Name="textBox4" />
+<Field Token="67108887" Name="panel4" />
+<Field Token="67108888" Name="panel5" />
+<Field Token="67108889" Name="updates" />
+<Field Token="67108890" Name="panel6" />
+<Field Token="67108891" Name="statusStrip1" />
+<Field Token="67108892" Name="toolStripStatusLabel1" />
+<Field Token="67108893" Name="toolStripStatusLabel2" />
+<Field Token="67108894" Name="accountsettings" />
+<Field Token="67108895" Name="panel7" />
+<Field Token="67108896" Name="label4" />
+<Field Token="67108897" Name="panel8" />
+<Field Token="67108898" Name="label6" />
+<Field Token="67108899" Name="button3" />
+<Field Token="67108900" Name="textBox5" />
+<Field Token="67108901" Name="label5" />
+<Field Token="67108902" Name="label10" />
+<Field Token="67108903" Name="label11" />
+<Field Token="67108904" Name="label9" />
+<Field Token="67108905" Name="label8" />
+<Field Token="67108906" Name="label7" />
+<Field Token="67108907" Name="pictureBox2" />
+<Field Token="67108908" Name="panel9" />
+<Field Token="67108909" Name="label12" />
+<Field Token="67108910" Name="button4" />
+<Field Token="67108911" Name="textBox6" />
+<Field Token="67108912" Name="panel10" />
+<Field Token="67108913" Name="button5" />
+<Field Token="67108914" Name="label13" />
+<Field Token="67108915" Name="button8" />
+<Field Token="67108916" Name="button7" />
+<Field Token="67108917" Name="button6" />
+<Field Token="67108918" Name="listView1" />
+<Field Token="67108919" Name="columnHeader1" />
+<Field Token="67108920" Name="columnHeader2" />
+<Field Token="67108921" Name="columnHeader3" />
+<Field Token="67108922" Name="columnHeader4" />
+<Field Token="67108923" Name="columnHeader5" />
+<Field Token="67108924" Name="columnHeader6" />
+<Field Token="67108925" Name="webKitBrowser1" />
+<Field Token="67108926" Name="textBox3" />
+<Field Token="67108927" Name="panel11" />
+<Field Token="67108928" Name="label14" />
+<Field Token="67108929" Name="pictureBox4" />
+<Field Token="67108930" Name="pictureBox3" />
+<Field Token="67108931" Name="panel14" />
+<Field Token="67108932" Name="panel12" />
+<Field Token="67108933" Name="panel13" />
+<Field Token="67108934" Name="pictureBox5" />
+<Field Token="67108935" Name="label15" />
+<Field Token="67108936" Name="imageList1" />
+<Field Token="67108937" Name="label18" />
+<Field Token="67108938" Name="label17" />
+<Field Token="67108939" Name="label16" />
+<Field Token="67108940" Name="panel15" />
+<Field Token="67108941" Name="pictureBox6" />
+<Field Token="67108942" Name="panel16" />
+<Field Token="67108943" Name="textBox7" />
+<Field Token="67108944" Name="label19" />
+<Field Token="67108945" Name="panel19" />
+<Field Token="67108946" Name="pictureBox10" />
+<Field Token="67108947" Name="textBox8" />
+<Field Token="67108948" Name="panel20" />
+<Field Token="67108949" Name="pictureBox7" />
+<Field Token="67108950" Name="textBox9" />
+<Field Token="67108951" Name="label21" />
+<Field Token="67108952" Name="label20" />
+<Field Token="67108953" Name="button9" />
+<Field Token="67108954" Name="label22" />
+<Type Token="33554439" Name="SmurfRPBanList.Program" />
+<Method Token="100663332" Name="Main" Variables="" ParamCnt="0" />
+<Type Token="33554440" Name="SmurfRPBanList.Properties.Resources" />
+<Method Token="100663333" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663334" Name="get_ResourceManager" Variables="temp;" ParamCnt="0" />
+<Method Token="100663335" Name="get_Culture" Variables="" ParamCnt="0" />
+<Method Token="100663336" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663337" Name="get__lock" Variables="obj;" ParamCnt="0" />
+<Method Token="100663338" Name="get_add" Variables="obj;" ParamCnt="0" />
+<Method Token="100663339" Name="get_application_xp_terminal" Variables="obj;" ParamCnt="0" />
+<Method Token="100663340" Name="get_header" Variables="obj;" ParamCnt="0" />
+<Method Token="100663341" Name="get_lock_go" Variables="obj;" ParamCnt="0" />
+<Method Token="100663342" Name="get_reason" Variables="obj;" ParamCnt="0" />
+<Method Token="100663343" Name="get_server" Variables="obj;" ParamCnt="0" />
+<Method Token="100663344" Name="get_steam" Variables="obj;" ParamCnt="0" />
+<Method Token="100663345" Name="get_time_delete" Variables="obj;" ParamCnt="0" />
+<Method Token="100663346" Name="get_user" Variables="obj;" ParamCnt="0" />
+<Method Token="100663347" Name="get_user_delete" Variables="obj;" ParamCnt="0" />
+<Method Token="100663348" Name="get_user_edit" Variables="obj;" ParamCnt="0" />
+<Method Token="100663349" Name="get_user_gray" Variables="obj;" ParamCnt="0" />
+<Method Token="100663350" Name="get_vcard" Variables="obj;" ParamCnt="0" />
+<Field Token="67108955" Name="resourceMan" />
+<Field Token="67108956" Name="resourceCulture" />
+<Type Token="33554441" Name="SmurfRPBanList.Properties.Settings" />
+<Method Token="100663351" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663352" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663353" Name="get_Default" Variables="" ParamCnt="0" />
+<Field Token="67108957" Name="defaultInstance" />
+<Type Token="33554435" Name="A.AssemblyInfoAttribute" />
+<Method Token="100663304" Name="" Variables="this;str;" ParamCnt="2" />
+</Assembly><File OldName="d:\DBox\Dropbox\PETER-EMIL\SmurfRP\SmurfRPBanList\SmurfRPBanList\Classes\SQL.cs" NewName="File0" />
+<File OldName="d:\DBox\Dropbox\PETER-EMIL\SmurfRP\SmurfRPBanList\SmurfRPBanList\GUI\GUI.cs" NewName="File1" />
+<File OldName="d:\DBox\Dropbox\PETER-EMIL\SmurfRP\SmurfRPBanList\SmurfRPBanList\GUI\GUI.Designer.cs" NewName="File2" />
+<File OldName="d:\DBox\Dropbox\PETER-EMIL\SmurfRP\SmurfRPBanList\SmurfRPBanList\Program.cs" NewName="File3" />
+<File OldName="d:\DBox\Dropbox\PETER-EMIL\SmurfRP\SmurfRPBanList\SmurfRPBanList\Properties\Resources.Designer.cs" NewName="File4" />
+<File OldName="d:\DBox\Dropbox\PETER-EMIL\SmurfRP\SmurfRPBanList\SmurfRPBanList\Properties\Settings.Designer.cs" NewName="File5" />
+</Mappings>

@@ -1,0 +1,39 @@
+<Project ProjectFileVersion="4" UseRelativePaths="True" CheckVersionsWhileResolvingAssemblies="True" ID="{9dbf84d6-de25-491e-a0d1-663398010c7f}">
+  <SearchDirectories />
+  <OutputSettings OutputPath="..\..\..\..\Obfuscated Release" MainAssemblyPath="" RunAssemblyPath="" SNPath="" SignToolPath="" LicensingDLLPath="" OverwriteInputFiles="False" BuildID="" MapFilesLocation="">
+    <AdditionalAssemblies>
+      <AdditionalAssembly Path=".\CFLite.dll" Encrypt="False" Compress="True" />
+      <AdditionalAssembly Path=".\icudt40.dll" Encrypt="False" Compress="True" />
+      <AdditionalAssembly Path=".\icuin40.dll" Encrypt="False" Compress="True" />
+      <AdditionalAssembly Path=".\icuuc40.dll" Encrypt="False" Compress="True" />
+      <AdditionalAssembly Path=".\JavaScriptCore.dll" Encrypt="False" Compress="True" />
+      <AdditionalAssembly Path=".\libcurl.dll" Encrypt="False" Compress="True" />
+      <AdditionalAssembly Path=".\libeay32.dll" Encrypt="False" Compress="True" />
+      <AdditionalAssembly Path=".\libexslt.dll" Encrypt="False" Compress="True" />
+      <AdditionalAssembly Path=".\libxml2.dll" Encrypt="False" Compress="True" />
+      <AdditionalAssembly Path=".\libxslt.dll" Encrypt="False" Compress="True" />
+      <AdditionalAssembly Path=".\MySql.Data.dll" Encrypt="False" Compress="True" />
+      <AdditionalAssembly Path=".\MySql.Data.Entity.dll" Encrypt="False" Compress="True" />
+      <AdditionalAssembly Path=".\objc.dll" Encrypt="False" Compress="True" />
+      <AdditionalAssembly Path=".\pthreadVC2.dll" Encrypt="False" Compress="True" />
+      <AdditionalAssembly Path=".\SourceRconLib.dll" Encrypt="False" Compress="True" />
+      <AdditionalAssembly Path=".\SQLite3.dll" Encrypt="False" Compress="True" />
+      <AdditionalAssembly Path=".\ssleay32.dll" Encrypt="False" Compress="True" />
+      <AdditionalAssembly Path=".\WebKit.dll" Encrypt="False" Compress="True" />
+      <AdditionalAssembly Path=".\WebKit.Interop.dll" Encrypt="False" Compress="True" />
+      <AdditionalAssembly Path=".\WebKitBrowser.dll" Encrypt="False" Compress="True" />
+    </AdditionalAssemblies>
+  </OutputSettings>
+  <ExceptionReporting ExceptionReportingServiceURL="" TryToContinueOnException="True" LocalReportPath=".\Project_ExceptionReports" ApplicationName="" CompanyName="" ShowUI="True" EnableSaveToFileButton="True" EnableSendReportButton="True" />
+  <ObfuscationSettings RenamingScheme="0" UseOverloadedFieldNames="False" UseOverloadedMethodNames="False" HonorObfuscationAttributes="True" ExcludeSerializedTypes="True" ProcessInlineStrings="True" ForceXAMLProcessingModeExclude="False" ForceRenameParams="False" SymbolPrefix="" SymbolSuffix="" FakeFields="" FakeTypes="" FakeMethods="" />
+  <ObfuscationRules />
+  <InclusionExclusionRules />
+  <Assembly Load="true" Path=".\SmurfRPBanList.exe" XapEntryName="" KeyFilePath="" CertFilePath="" TimeStampURL="" Embed="True" AddExceptionReporting="False" PfxPassword="" PfxPasswordCert="" IsWinRTAssembly="False">
+    <ObfuscationSettings EncryptStrings="True" EncryptMethods="False" EncryptConstants="False" SuppressReflector="False" ReduceMetaData="False" ObfuscationDisposition="1" FlowObfuscation="2" CodeMasking="0" SuppressILDASM="True" SuppressReflection="False" CombineResources="True" EncryptResources="True" CompressResources="True" MarkAsSealed="False" EnableTamperDetection="False" EnableAntiDebugging="False" SymbolRenaming="True" HideExternalCalls="False" HideInternalCalls="False" GeneratePdbFile="True" ObfuscatePdbFileNames="True" IncludeLocalVariablesInPdbFile="False" Encrypt="False" Compress="False" MSBuild="False" ObfuscatedNamespace="A" RetainNamespace="False" ModuleInitializationMethod="" LicensingMerge="False" RemoveConstants="False">
+      <Watermarks Watermark0="" Watermark1="" Watermark2="" Watermark3="" Watermark4="" Watermark5="" Watermark6="" Watermark7="" Watermark8="" Watermark9="" />
+    </ObfuscationSettings>
+  </Assembly>
+  <WarningSuppressions />
+  <Warnings SaveWarningsToFile="" FailOnUnsuppressedWarning="False" SaveSuppressedWarnings="True" SaveUnsuppressedWarnings="True" />
+  <Filters />
+</Project>
